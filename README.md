@@ -8,7 +8,7 @@ This folder is prepared as a static site for Vercel deployment.
 - `privacy.html` - Privacy Policy
 - `terms.html` - Terms of Use
 - `support.html` - Support
-- `ads.txt` - AdMob ads.txt verification
+- `app-ads.txt` - AdMob app-ads.txt verification
 - `vercel.json` - Clean URLs and redirects
 
 ## Vercel
@@ -24,4 +24,4 @@ This folder is prepared as a static site for Vercel deployment.
 - `/privacy`
 - `/terms`
 - `/support`
-- `/ads.txt`
+- `/app-ads.txt`
