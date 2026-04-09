@@ -1,26 +1,26 @@
 # Snopy Legal Site
 
-Bu klasor statik olarak Vercel'e deploy edilmek icin hazirlandi.
+This folder is prepared as a static site for Vercel deployment.
 
-## Icerik
+## Contents
 
-- `index.html` - Ana sayfa
+- `index.html` - Root page
 - `privacy.html` - Privacy Policy
 - `terms.html` - Terms of Use
 - `support.html` - Support
-- `ads.txt` - AdMob ads.txt dogrulamasi
-- `vercel.json` - Temiz URL ve yonlendirmeler
+- `ads.txt` - AdMob ads.txt verification
+- `vercel.json` - Clean URLs and redirects
 
 ## Vercel
 
-1. Bu klasoru GitHub'a push et.
-2. Vercel'de proje import et.
-3. **Root Directory** olarak `legal-site` sec.
-4. Deploy et.
+1. Push this folder to GitHub.
+2. Import the project in Vercel.
+3. Set **Root Directory** to `legal-site`.
+4. Deploy.
 
-## Beklenen URL'ler
+## Expected URLs
 
-- `/` -> ana sayfa
+- `/` -> root page
 - `/privacy`
 - `/terms`
 - `/support`
